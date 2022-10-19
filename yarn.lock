@@ -2993,7 +2993,7 @@ __metadata:
     react: ^18.0.0
     react-dom: ^18.0.0
     react-helmet-async: ^1.3.0
-    react-hook-form: ^7.31.1
+    react-hook-form: ^7.38.0
     react-query: ^3.39.1
     react-router-dom: 6
     react-table: ^7.8.0
@@ -3192,12 +3192,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-hook-form@npm:^7.31.1":
-  version: 7.31.1
-  resolution: "react-hook-form@npm:7.31.1"
+"react-hook-form@npm:^7.38.0":
+  version: 7.38.0
+  resolution: "react-hook-form@npm:7.38.0"
   peerDependencies:
     react: ^16.8.0 || ^17 || ^18
-  checksum: c387f81f0a740b610a601e06e148fce1abd466d353c9a5fd05253644d47270b69c8a0278cdc0f28a3adf5bef2c510adb4bcf37269892dc596750af8e8d062fb1
+  checksum: 16d5f117e39ec09f73def706fb4e189aa11e19191231082fe7e15481701beb2b81260581012db8939799d8011a6132561659dd864b08270691353e134c4f06b0
   languageName: node
   linkType: hard
 
